@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/musime/static/css/main.13885bd1.css",
-    "main.js": "/musime/static/js/main.1d1fe680.js",
+    "main.js": "/musime/static/js/main.79722442.js",
     "static/js/453.d3d43ef0.chunk.js": "/musime/static/js/453.d3d43ef0.chunk.js",
     "index.html": "/musime/index.html",
     "main.13885bd1.css.map": "/musime/static/css/main.13885bd1.css.map",
-    "main.1d1fe680.js.map": "/musime/static/js/main.1d1fe680.js.map",
+    "main.79722442.js.map": "/musime/static/js/main.79722442.js.map",
     "453.d3d43ef0.chunk.js.map": "/musime/static/js/453.d3d43ef0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.13885bd1.css",
-    "static/js/main.1d1fe680.js"
+    "static/js/main.79722442.js"
   ]
 }
